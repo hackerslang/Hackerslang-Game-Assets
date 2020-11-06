@@ -1,0 +1,5 @@
+In these directories you will find two series of sprites: one for Tix and one for Tax.
+
+Tux (from SuperTux) is grown now and these are his two sons.
+
+These story elements are released under the GNU GENERAL PUBLIC LICENSE version 3 (view LICENSE).
